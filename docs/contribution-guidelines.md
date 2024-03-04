@@ -6,7 +6,11 @@ sidebar_position: 9
 
 ## New contributors
 
-Welcome to the Bitquery documentation community! We are excited to have you contribute to our [documentation](https://docs.bitquery.io/) and help us make it the best it can be.
+Welcome to the Bitquery documentation community! We are excited to have you contribute to our [
+ 
+ ### Limits
+@@ -36,7 +35,7 @@ Read [here](https://docs.bitquery.io/docs/authorisation/websocket/) on how to us
+ ](https://docs.bitquery.io/) and help us make it the best it can be.
 
 Currently, we have opened V2 APIs to contributions and will soon set up V1 for open-source contributions as well.
 
