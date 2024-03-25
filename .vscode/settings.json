@@ -1,9 +1,1 @@
-{
-    "grammarly.selectors": [
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "docs/usecases/tradingview/tradingview.md"
-        }
-    ]
-}
+Sandbox.md
